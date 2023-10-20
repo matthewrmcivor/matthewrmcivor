@@ -1,7 +1,7 @@
 Hi 👋 My name is Matt McIvor
 ============================
 
-Software Engineer
+Full Stack Software Engineer
 -----------------
 
 JavaScript | React | Node.JS | MongoDB | MySQL | Docker | AWS BS Physics | MS Finance
