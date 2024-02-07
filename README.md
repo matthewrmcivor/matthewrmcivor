@@ -1,15 +1,15 @@
 Hi 👋 My name is Matt McIvor
 ============================
 
-Full Stack Software Engineer
+Software Engineer
 -----------------
 
-JavaScript | React | Node.JS | MongoDB | MySQL | Docker | AWS 
+React | Node.JS | MongoDB | MySQL | AWS
 BS Physics | MS Finance
 
 * 🌍  I'm based in California
 * 🤝  I'm open to collaborating on exciting Front End, Backend, or Full Stack Software Engineering projects.
-* 🧠  I'm learning TypeScript and Java
+* 🧠  I'm learning TypeScript
 * ✉️  You can contact me at [matthewrmcivor@gmail.com](mailto:matthewrmcivor@gmail.com)
 
 ### Skills
