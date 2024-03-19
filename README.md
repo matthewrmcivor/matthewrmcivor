@@ -6,9 +6,9 @@ Software Engineer
 
 React | Node.JS | MongoDB | MySQL | AWS
 
-* 🌍  I'm based in California
+* 🌍  I'm based in Southern California.
 * 🤝  I'm open to collaborating on exciting Front End, Backend, or Full Stack Software Engineering projects.
-* 🧠  I'm learning TypeScript, Next.js, & NestJS
+* 🧠  I'm learning TypeScript, Next.js, & NestJS.
 * ✉️  You can contact me at [matthewrmcivor@gmail.com](mailto:matthewrmcivor@gmail.com)
 
 ### Skills
